@@ -1,0 +1,13 @@
+{
+  "docs": {
+    "国家图书馆": ["guo-tu"],
+    "陕西省档案馆": ["shan-xi"],
+    "南郑文史资料馆": ["nan-zheng"],
+    "台湾中研院近代史档案馆": ["tai-wan"],
+    "法国相关档案": ["fa-guo"],
+    "勤工俭学档案": ["qin-gong"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
