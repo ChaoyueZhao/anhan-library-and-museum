@@ -1807,7 +1807,7 @@ footer.nav-footer {
 }
 footer .sitemap {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   max-width: 1080px;
   margin: 0 auto 3em;
 }
