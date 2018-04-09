@@ -28,30 +28,21 @@ class Footer extends React.Component {
               <img
                 src={this.props.config.baseUrl + this.props.config.footerIcon}
                 alt={this.props.config.title}
-                width="66"
-                height="58"
+                width="300"
+                height="100"
               />
             )}
           </a>
           <div>
             <h5>档案文献</h5>
             <a href={this.docUrl('guo-tu.html', this.props.language)}>
-              国图档案
+              馆藏档案
             </a>
-            <a href={this.docUrl('shan-xi.html', this.props.language)}>
-              陕西档案
+            <a href={this.docUrl('shu-ji.html', this.props.language)}>
+              安汉著作
             </a>
-            <a href={this.docUrl('nan-zheng.html', this.props.language)}>
-              汉中档案
-            </a>
-            <a href={this.docUrl('tai-wan.html', this.props.language)}>
-              台湾档案
-            </a>
-            <a href={this.docUrl('fa-guo.html', this.props.language)}>
-              法国档案
-            </a>
-            <a href={this.docUrl('qin-gong.html', this.props.language)}>
-              留学档案
+            <a href={this.docUrl('jia-pu.html', this.props.language)}>
+              民间资料
             </a>
           </div>
           <div>
@@ -59,12 +50,13 @@ class Footer extends React.Component {
             {/* <a href={this.pageUrl('users.html', this.props.language)}>
               User Showcase
             </a> */}
+            <a href={this.props.config.baseUrl + 'blog'}>博客</a>
             <a
               href="https://tieba.baidu.com/f?kw=%B0%B2%BA%BA/"
               target="_blank">
-              百度安汉吧
+              安汉吧
             </a>
-            <a href="https://discordapp.com/">QQ群</a>
+            <a href="https://jq.qq.com/?_wv=1027&k=5AZi1R4">QQ群</a>
             {/* <a href="https://twitter.com/" target="_blank">
               Twitter
             </a> */}
@@ -74,7 +66,7 @@ class Footer extends React.Component {
             <a href={this.docUrl('about.html', this.props.language)}>
               捐助
             </a>
-            <a href={this.props.config.baseUrl + 'blog'}>博客</a>
+            <a href="mailto:me@zhaochaoyue.com">投稿</a>
             <a href="https://github.com/">GitHub</a>
             <a
               className="github-button"
@@ -101,7 +93,7 @@ class Footer extends React.Component {
           />
         </a> */}
         <section className="copyright">
-          Copyright &copy; {currentYear} 安汉纪念馆
+          Copyright &copy; {currentYear} 安汉纪念馆 - Made with <i style={{color: '#ec1625'}}>❤</i> by <a href="http://www.zhaochaoyue.com" target="_blank" style={{color: 'rgba(255, 255, 255, 0.6)'}}>赵超越</a>
         </section>
       </footer>
     );

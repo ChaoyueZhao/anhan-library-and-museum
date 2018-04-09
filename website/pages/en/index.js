@@ -76,13 +76,13 @@ class HomeSplash extends React.Component {
     let language = this.props.language || '';
     return (
       <SplashContainer>
-        <Logo img_src={imgUrl('docusaurus.svg')} />
+        {/* <Logo img_src={imgUrl('docusaurus.svg')} /> */}
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>
+            <Button href={docUrl('guo-tu.html', language)}>立即查看</Button>
+            {/* <Button href={docUrl('doc1.html', language)}>Example Link</Button>
+            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button> */}
           </PromoSection>
         </div>
       </SplashContainer>
@@ -103,14 +103,14 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: '独家提供海量档案史料在线阅览和免费下载，其中包括法国和台湾的珍贵档案',
-        image: imgUrl('docusaurus.svg'),
+        content: '提供海量档案文献在线阅览和免费下载，<br/>独家揭秘法国和台湾的珍贵档案',
+        image: imgUrl('jie-mi.svg'),
         imageAlign: 'top',
         title: '档案解密',
       },
       {
-        content: '最权威的安汉研究数据库，收录文章包括学术论文，回忆录，纪念文章和文学作品等',
-        image: imgUrl('docusaurus.svg'),
+        content: '最权威的安汉研究数据库，收录文章包括<br/>学术论文，回忆录，纪念文章和文学作品等',
+        image: imgUrl('yan-jiu.svg'),
         imageAlign: 'top',
         title: '安汉研究',
       },
@@ -127,18 +127,18 @@ const Features = props => (
 //   </div>
 // );
 
-// const LearnHow = props => (
-//   <Block background="light">
-//     {[
-//       {
-//         content: 'Talk about learning how to use this',
-//         image: imgUrl('docusaurus.svg'),
-//         imageAlign: 'right',
-//         title: 'Learn How',
-//       },
-//     ]}
-//   </Block>
-// );
+const LearnHow = props => (
+  <Block background="light">
+    {[
+      {
+        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，已经发表于《渭南师范学院学报》2018年第6期。<a href="#">免费阅读</a></p>',
+        image: imgUrl('paper.svg'),
+        imageAlign: 'right',
+        title: '喜讯',
+      },
+    ]}
+  </Block>
+);
 
 // const TryOut = props => (
 //   <Block id="try">
@@ -205,11 +205,13 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer">
           <Features />
-          {/* <FeatureCallout />
           <LearnHow />
+          {/* <Showcase language={language} /> */}
+          {/* <FeatureCallout />
+          
           <TryOut />
           <Description />
-          <Showcase language={language} /> */}
+           */}
         </div>
       </div>
     );

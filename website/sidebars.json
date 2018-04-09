@@ -1,13 +1,7 @@
 {
   "docs": {
-    "国家图书馆": ["guo-tu"],
-    "陕西省档案馆": ["shan-xi"],
-    "南郑文史资料馆": ["nan-zheng"],
-    "台湾中研院近代史档案馆": ["tai-wan"],
-    "法国相关档案": ["fa-guo"],
-    "勤工俭学档案": ["qin-gong"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "馆藏档案": ["guo-tu", "shan-xi", "nan-zheng", "tai-wan", "fa-guo"],
+    "安汉著作": ["shu-ji", "qi-kan", "bao-kan"],
+    "民间资料": ["jia-pu", "zhao-pian", "qin-gong"] 
   }
 }

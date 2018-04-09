@@ -8,7 +8,7 @@
 /* List of projects/orgs using your project for the users page */
 const users = [
   {
-    caption: 'User1',
+    caption: '赵超越',
     image: '/test-site/img/docusaurus.svg',
     infoLink: 'https://www.facebook.com',
     pinned: true,
@@ -17,31 +17,31 @@ const users = [
 
 const siteConfig = {
   title: '安汉纪念馆' /* title for your website */,
-  tagline: '民国农垦专家、西北开发先行者安汉先生在线图文资料库',
-  url: 'https://facebook.github.io' /* your website url */,
+  tagline: '民国农垦专家、西北开发先行者安汉先生图文资料库',
+  url: 'https://ChaoyueZhao.github.io/anhan-library-and-museum' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   projectName: 'anhan-library-and-museum',
   organizationName: 'ChaoyueZhao',
   headerLinks: [
-    {doc: 'guo-tu', label: '档案'},
-    {blog: true, label: '文章'},
+    {doc: 'guo-tu', label: '史料'},
+    {blog: true, label: '博客'},
     {doc: 'about', label: '关于'},
 
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  // headerIcon: 'img/docusaurus.svg',
+  footerIcon: 'img/footer-logo.png',
+  favicon: 'img/favicon.jpg',
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
+    primaryColor: '#0288d1',
     secondaryColor: '#205C3B',
   },
   blogSidebarCount: 'ALL',
   algolia: {
-    apiKey: "my-search-only-api-key-1234",
-    indexName: "my-index-name"
+    apiKey: "03ce633e4bb259d74beaf752935d21f2",
+    indexName: "8X3E7Z8CCJ"
   },
   /* custom fonts for website */
   /*fonts: {

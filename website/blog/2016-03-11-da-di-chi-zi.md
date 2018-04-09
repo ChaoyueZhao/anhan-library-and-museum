@@ -2,7 +2,6 @@
 title: 大地赤子
 author: 王蓬
 authorURL: https://baike.baidu.com/item/%E7%8E%8B%E8%93%AC/7368999
-authorFBID: 
 ---
 
 ## 立志学农
