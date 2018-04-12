@@ -335,7 +335,7 @@ header h2 {
   line-height: 1em;
   padding: 0;
   color: #0288d1;
-  font-weight: bold;
+  font-weight: 400;
 }
 .mainContainer .wrapper .post .postHeader h1 a {
   border: none;
