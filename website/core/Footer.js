@@ -64,7 +64,7 @@ class Footer extends React.Component {
           <div>
             <h5>更多</h5>
             <a href={this.docUrl('about.html', this.props.language)}>
-              捐助
+              关于
             </a>
             <a href="mailto:me@zhaochaoyue.com">投稿</a>
             <a href="https://github.com/">GitHub</a>

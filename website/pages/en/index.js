@@ -80,9 +80,9 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl('guo-tu.html', language)}>立即查看</Button>
-            {/* <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button> */}
+            <Button href={docUrl('guo-tu.html', language)}>查看资料</Button>
+            <Button href={docUrl('about.html#捐助本站', language)}>捐助</Button>
+            {/* <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>  */}
           </PromoSection>
         </div>
       </SplashContainer>
@@ -131,7 +131,7 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，已经发表于《渭南师范学院学报》2018年第6期。<a href="#">免费阅读</a></p>',
+        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，即将发表于《渭南师范学院学报》2018年第8期。本站将提供免费阅读，敬请期待。',
         image: imgUrl('paper.svg'),
         imageAlign: 'right',
         title: '喜讯',

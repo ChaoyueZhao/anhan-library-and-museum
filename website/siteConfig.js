@@ -40,9 +40,10 @@ const siteConfig = {
   },
   blogSidebarCount: 'ALL',
   algolia: {
-    apiKey: "03ce633e4bb259d74beaf752935d21f2",
-    indexName: "8X3E7Z8CCJ"
+    apiKey: "942be48f3800a102b7796ed6ffce425d",
+    indexName: "anhan"
   },
+  onPageNav: 'separate',
   /* custom fonts for website */
   /*fonts: {
     myFont: [
