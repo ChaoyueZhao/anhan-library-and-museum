@@ -4,7 +4,7 @@
         <title>安汉纪念馆 Blog</title>
         <link>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog</link>
         <description>The best place to stay up-to-date with the latest 安汉纪念馆 news and events.</description>
-        <lastBuildDate>Thu, 12 Apr 2018 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jun 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,18 @@
             <link>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog</link>
         </image>
         <copyright>Copyright © 2018安汉纪念馆</copyright>
+        <item>
+            <title><![CDATA[安汉生平事迹考略]]></title>
+            <link>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2018/06/15/an-han-sheng-ping-kao-lue.html</link>
+            <guid>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2018/06/15/an-han-sheng-ping-kao-lue.html</guid>
+            <pubDate>Fri, 15 Jun 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<blockquote>
+<p>发表于2018年6月《渭南师范学院学报》第33卷第11期“秦地文化研究”栏目</p>
+</blockquote>
+<p><strong>摘要</strong>：安汉是民国著名农垦专家，对民国时期西北经济开发做出了重要贡献，他在农学教育、农垦学理论和农垦经济管理领域亦有非凡建树。安汉的生平事迹颇具传奇色彩，方志文献虽多有记述，却一直存在隐匿不清之处，且相互矛盾，严重影响了安汉研究的展开。通过援引新发现的档案和文献，匡正了安汉的出生日期、出国日期和死亡日期，补充了安汉留学法国时期的学习情况和重大事件，对安汉回国担任的教职和他与国立西北农林专科学校的关系进行了考证，并详细研究了安汉在黎坪垦区遇难的情况。</p>
+<p><strong>关键词</strong>：安汉；勤工俭学；民国西北开发；黎坪垦区；</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[学术论文：“一考察 二研究 三建设”——安汉与他的西北开发三部曲]]></title>
             <link>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2018/04/12/san-bu-qu.html</link>
@@ -38,8 +50,8 @@
             <link>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2017/10/24/zong-shu.html</link>
             <guid>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2017/10/24/zong-shu.html</guid>
             <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<h2><a class="anchor" aria-hidden="true" id="一-安汉研究基本情况"></a><a href="#一-安汉研究基本情况" aria-hidden="true" class="hash-link" ><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>一、安汉研究基本情况</h2>
-<h3><a class="anchor" aria-hidden="true" id="一-研究启动"></a><a href="#一-研究启动" aria-hidden="true" class="hash-link" ><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>（一）研究启动</h3>
+            <description><![CDATA[<h2><a class="anchor" aria-hidden="true" id="一-安汉研究基本情况"></a><a href="#一-安汉研究基本情况" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>一、安汉研究基本情况</h2>
+<h3><a class="anchor" aria-hidden="true" id="一-研究启动"></a><a href="#一-研究启动" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>（一）研究启动</h3>
 <p>二十世纪八十年代，人民经过“文化大革命”苦难历程，开始重新认识安汉先生的进步价值，从民间到官方对安汉业迹日益关注，开始了多种形式的缅怀、纪念和研究活动。</p>
 <p>1984年，全国开始建国后第一次地方志编纂工作。南郑县聘请时任中共陕西省委书记兼西安市委第一书记、省顾委副主任，陕西省地方志编纂委员会主任陈元方担任《南郑县志》的顾问。在南郑县地方志编写中，陈元方书记亲自与南郑县政协领导交谈，并把当年与安汉一同参与黎坪开发秦子明先生关于垦区回忆遗稿交给他们，希望南郑县政协对黎坪垦区与安汉问题的资料进行抢救和整理。</p>
 ]]></description>
@@ -127,7 +139,7 @@
             <link>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2016/03/11/da-di-chi-zi.html</link>
             <guid>https://ChaoyueZhao.github.io/anhan-library-and-museum/blog/2016/03/11/da-di-chi-zi.html</guid>
             <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
-            <description><![CDATA[<h2><a class="anchor" aria-hidden="true" id="立志学农"></a><a href="#立志学农" aria-hidden="true" class="hash-link" ><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>立志学农</h2>
+            <description><![CDATA[<h2><a class="anchor" aria-hidden="true" id="立志学农"></a><a href="#立志学农" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>立志学农</h2>
 <p>中国西部的辽阔、西部的广袤，西部所沉淀的厚重的历史与灿烂的文化，西部众多的民族和各自绚丽多彩的风情，西部拥有的大江大河之源和巍然高耸的雪域屋脊，以及深藏于大漠戈壁深处的油气资源，在沉睡了若干个世纪之后，终于被一声沉重的巨喊震响：西部大开发!</p>
 <p>中国西部原本是一个地理概念，中华大地，自汉唐拓疆，东西延绵万里，自然就有东西南北的方位区划。若按地形划分，西部通常是指黄河与秦岭衔接处，即陕豫交界的风陵渡以西，含陕西、宁夏、甘肃、青海、新疆、重庆、贵州、云南、四川、西藏等广大地域。</p>
 ]]></description>
