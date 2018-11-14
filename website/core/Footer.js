@@ -35,13 +35,13 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>档案文献</h5>
-            <a href={this.docUrl('guo-tu.html', this.props.language)}>
+            <a href={this.docUrl('guo-tu.html')}>
               馆藏档案
             </a>
-            <a href={this.docUrl('shu-ji.html', this.props.language)}>
+            <a href={this.docUrl('shu-ji.html')}>
               安汉著作
             </a>
-            <a href={this.docUrl('jia-pu.html', this.props.language)}>
+            <a href={this.docUrl('jia-pu.html')}>
               民间资料
             </a>
           </div>
@@ -63,7 +63,7 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>更多</h5>
-            <a href={this.docUrl('about.html', this.props.language)}>
+            <a href={this.docUrl('about.html')}>
               关于
             </a>
             <a href="mailto:me@zhaochaoyue.com">投稿</a>
@@ -93,7 +93,9 @@ class Footer extends React.Component {
           />
         </a> */}
         <section className="copyright">
-          Copyright &copy; {currentYear} 安汉纪念馆 - Made with <i style={{color: '#ec1625'}}>❤</i> by <a href="http://www.zhaochaoyue.com" target="_blank" style={{color: 'rgba(255, 255, 255, 0.6)'}}>赵超越</a>
+          Copyright &copy; {currentYear} 安汉纪念馆 <br/>
+           Made with <i style={{color: '#ec1625'}}>❤</i> by <a href="http://www.zhaochaoyue.com" target="_blank" style={{color: 'rgba(255, 255, 255, 0.6)'}}>赵超越 </a>
+           | Powered by <a href='https://docusaurus.io/' target='_blank' style={{color: 'rgba(255, 255, 255, 0.6)'}}>Docusaurus</a>
         </section>
       </footer>
     );

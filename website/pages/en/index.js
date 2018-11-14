@@ -131,7 +131,7 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，即将发表于《渭南师范学院学报》2018年第8期。本站将提供免费阅读，敬请期待。',
+        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，已经发表于《渭南师范学院学报》2018年6月第11期。<a href="http://www.anhan.org.cn/blog/2018/06/15/an-han-sheng-ping-kao-lue.html">立即阅读</a>。',
         image: imgUrl('paper.svg'),
         imageAlign: 'right',
         title: '喜讯',
