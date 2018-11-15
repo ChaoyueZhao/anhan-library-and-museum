@@ -4,30 +4,64 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "民国农垦专家、西北开发先行者安汉先生图文资料库",
-    "about": "关于本站",
-    "bao-kan": "民国报刊文献",
-    "doc4": "Other Document",
-    "doc5": "Fifth Document",
-    "fa-guo": "法国国家图书馆馆藏",
-    "法国国家图书馆": "法国国家图书馆",
-    "guo-tu": "国家图书馆馆藏",
-    "国家图书馆": "国家图书馆",
-    "jia-pu": "安汉家谱树",
-    "nan-zheng": "南郑县文史资料馆",
-    "qi-kan": "民国期刊文献",
-    "qin-gong": "勤工俭学档案",
-    "shan-xi": "陕西省档案馆",
-    "陕西省档案馆馆藏": "陕西省档案馆馆藏",
-    "shu-ji": "出版书籍著作",
-    "tai-wan": "台湾中研院近代史档案馆",
-    "台湾中研院近代史档案馆馆藏": "台湾中研院近代史档案馆馆藏",
-    "zhao-pian": "珍贵影像资料",
-    "史料": "史料",
-    "博客": "博客",
-    "关于": "关于",
-    "馆藏档案": "馆藏档案",
-    "安汉著作": "安汉著作",
-    "民间资料": "民间资料"
+    "docs": {
+      "about": {
+        "title": "关于本站"
+      },
+      "bao-kan": {
+        "title": "民国报刊文献"
+      },
+      "doc4": {
+        "title": "Other Document"
+      },
+      "doc5": {
+        "title": "Fifth Document"
+      },
+      "fa-guo": {
+        "title": "法国国家图书馆馆藏",
+        "sidebar_label": "法国国家图书馆"
+      },
+      "guo-tu": {
+        "title": "国家图书馆馆藏",
+        "sidebar_label": "国家图书馆"
+      },
+      "jia-pu": {
+        "title": "安汉家谱树"
+      },
+      "nan-zheng": {
+        "title": "南郑县文史资料馆"
+      },
+      "qi-kan": {
+        "title": "民国期刊文献"
+      },
+      "qin-gong": {
+        "title": "勤工俭学档案"
+      },
+      "shan-xi": {
+        "title": "陕西省档案馆",
+        "sidebar_label": "陕西省档案馆馆藏"
+      },
+      "shu-ji": {
+        "title": "出版书籍著作"
+      },
+      "tai-wan": {
+        "title": "台湾中研院近代史档案馆",
+        "sidebar_label": "台湾中研院近代史档案馆馆藏"
+      },
+      "zhao-pian": {
+        "title": "珍贵影像资料"
+      }
+    },
+    "links": {
+      "史料": "史料",
+      "博客": "博客",
+      "关于": "关于"
+    },
+    "categories": {
+      "馆藏档案": "馆藏档案",
+      "安汉著作": "安汉著作",
+      "民间资料": "民间资料"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
