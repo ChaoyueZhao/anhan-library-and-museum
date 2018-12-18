@@ -19,7 +19,7 @@ const siteConfig = {
   title: '安汉纪念馆' /* title for your website */,
   tagline: '民国农垦专家、西北开发先行者安汉先生图文资料库',
   url: 'https://chaoyuezhao.github.io' /* your website url */,
-  baseUrl: '/anhan-library-and-museum/' /* base url for your project */,
+  baseUrl: '/anhan-library-and-museum' /* base url for your project */,
   projectName: 'anhan-library-and-museum',
   organizationName: 'ChaoyueZhao',
   headerLinks: [
