@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog</id>
+    <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog</id>
     <title>安汉纪念馆 Blog</title>
     <updated>2018-06-15T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://chaoyuezhao.github.io/anhan-library-and-museumblog"/>
+    <link rel="alternate" href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog"/>
     <subtitle>The best place to stay up-to-date with the latest 安汉纪念馆 news and events.</subtitle>
-    <logo>https://chaoyuezhao.github.io/anhan-library-and-museumundefined</logo>
+    <logo>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/undefined</logo>
     <rights>Copyright © 2018安汉纪念馆</rights>
     <entry>
         <title type="html"><![CDATA[安汉生平事迹考略]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2018/06/15/an-han-sheng-ping-kao-lue.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2018/06/15/an-han-sheng-ping-kao-lue.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2018/06/15/an-han-sheng-ping-kao-lue.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2018/06/15/an-han-sheng-ping-kao-lue.html">
         </link>
         <updated>2018-06-15T06:00:00Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学术论文：“一考察 二研究 三建设”——安汉与他的西北开发三部曲]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2018/04/12/san-bu-qu.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2018/04/12/san-bu-qu.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2018/04/12/san-bu-qu.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2018/04/12/san-bu-qu.html">
         </link>
         <updated>2018-04-12T06:00:00Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -43,8 +43,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《西北垦殖论》安汉自序]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2018/04/08/xi-bei-ken-zhi-lun-an-han-zi-xv.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2018/04/08/xi-bei-ken-zhi-lun-an-han-zi-xv.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2018/04/08/xi-bei-ken-zhi-lun-an-han-zi-xv.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2018/04/08/xi-bei-ken-zhi-lun-an-han-zi-xv.html">
         </link>
         <updated>2018-04-08T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>吾国陕甘青宁察绥蒙新诸省，地处西北边陲，以历史言，则吾族文化策源之地，以地理言，则全国幅员最广之区，土地膏腴，宜农宜牧，气候亢爽，可耕可屯，物产既丰，工资亦俭，各项企业，皆当视为命源者也。据谋国者，苦于交通之未便，往往化外置之，故輶轩之辙，络绎于东南都会，工商之业，竞争于沿江沿海，意谓西北冰天雪地，不宜耕耘，风俗悬殊，难与实业，驯至天然宝藏尽弃于地，物质需要转仰外人，不亦惜哉！</p>
@@ -55,8 +55,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安汉研究综述]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/zong-shu.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/zong-shu.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/zong-shu.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/zong-shu.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="一-安汉研究基本情况"></a><a href="#一-安汉研究基本情况" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>一、安汉研究基本情况</h2>
@@ -71,8 +71,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[爷爷安汉“白皮红心”几件事]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/ye-ye.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/ye-ye.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/ye-ye.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/ye-ye.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>今年6月15日，是爷爷安汉诞辰一百二十周年。许多素不相识的人都曾写文章纪念和缅怀爷爷的科学探索精神，崇高人格品德，抗日实业救国，扶危济困作风，不屈权势铁骨……的人生。透过许许多多的回忆纪念文章，我们对爷爷理解和认识也在不断升华。也证实父亲安民新在文革期间告诉我们的一句话“你们的爷爷是个好人，他是白皮红心”。</p>
@@ -84,8 +84,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[乱世书生的悲剧命运——安汉]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/luan-shi-shu-sheng.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/luan-shi-shu-sheng.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/luan-shi-shu-sheng.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/luan-shi-shu-sheng.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>巴山之上，有不少森林公园，都以自然风光称奇，因其地处偏僻，少有人文内涵，而地处陕西汉中南郑县境内巴山深处的黎坪国家森林公园，不仅有神奇瑰丽、独一无二的自然风光，也因为民国时期一位留法的农学硕士在这里的悲剧遭遇，而留下了内涵丰富的人文遗迹。走入这座大山，我们发现，历史上的很多事情，要远比这深山老林更为诡异神秘。</p>
@@ -97,8 +97,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安汉：一座不陨落的历史丰碑]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/li-shi-feng-bei.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/li-shi-feng-bei.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/li-shi-feng-bei.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/li-shi-feng-bei.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>初秋八月，我和父亲一同回汉中。汽车行驶在西汉高速公路上，看见几处醒目的广告牌，让我对汉中的九寨沟——黎坪，印象十分深刻。到家后便向周边的人询问起来，“黎坪”已是汉中一处很火爆的旅游地，称之汉中黎坪国家森林公园，它由黄杨河、黎坪、石马山、冷坝四大景区构成的。是以森林景观、地貌景观、水体景观及现代人文景观为主体，集山景、林景、石景、水景、气候景观和田园景观为一体的山岳型森林公园。这里四季景色各异，阳春山花烂漫，盛夏白菊摇曳，金秋层林尽染，严冬玉树琼枝，被专家赞誉为巴山深处的“绿色明珠”、“东方瑞士”、“石林奇境、碧水天堂”。堪称汉中第一山水。不是“九寨”，胜似“九寨”。2009年7月1日正式对外开园。</p>
@@ -110,8 +110,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[中篇小说：魂断黎坪]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/hun-duan-li-ping.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/hun-duan-li-ping.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/hun-duan-li-ping.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/hun-duan-li-ping.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>第一卷　黄龙之劫.............................................................................................................. 001</p>
@@ -128,8 +128,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你不知道的中国南郑之黎坪安汉故居]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/an-han-gu-ju.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/10/24/an-han-gu-ju.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/an-han-gu-ju.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/10/24/an-han-gu-ju.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>去黎坪游玩，有一个景点不可不看，那便是中华龙山；来黎坪游玩，同样有一个人你不可不知，那便是——安汉。 在黎坪景区，至今仍有一个特殊的景点，那便是安汉故居。</p>
@@ -142,8 +142,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安汉垦殖理论与实践的当代价值]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/09/26/li-lun-jia-zhi.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/09/26/li-lun-jia-zhi.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/09/26/li-lun-jia-zhi.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/09/26/li-lun-jia-zhi.html">
         </link>
         <updated>2017-09-26T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>安汉先生是陕西走出的民国历史名人、中国近代农垦事业的先行者，他的传奇人生被后人颂扬称道，他的悲惨结局亦令后人唏嘘不已。至此先生诞辰120周年之际，对其终极一生潜心研究且致力践行的西北垦殖事业深表敬佩之余，本着崇敬先贤继往开来的宗旨，对安汉先生垦殖理论和实践的当代价值进行分析讨论，以期全面认识“垦殖”与安汉时代的“西北垦殖”，正确把握经济发展和生态保护与资源合理利用之间的关系。</p>
@@ -155,8 +155,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安汉冤杀成因解读]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/09/25/yuan-sha-jie-du.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/09/25/yuan-sha-jie-du.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/09/25/yuan-sha-jie-du.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/09/25/yuan-sha-jie-du.html">
         </link>
         <updated>2017-09-25T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>关于安汉之死的原因，学界争论比较大。目前比较流行的说法是：安汉与南郑县孙宗复矛盾突出，而孙与鄂陕甘边区总司令祝绍周关系密切，后被祝、孙诬陷“私种大烟”而杀害。秦子明的回忆录，何高峰写的《安汉蒙难纪实》，李宗禹等人的回忆文章，都认为安汉与孙宗复、祝绍周的矛盾是导致杀身之祸。其实历史的成因是多维的，不能孤立的把复杂矛盾简单化，综合分析，安汉之死主要有以下三个重要原因：</p>
@@ -168,8 +168,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安汉研究的最早推手 ——原省委领导关心和推动安汉研究记事]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/04/10/zui-zao-tui-shou.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2017/04/10/zui-zao-tui-shou.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/04/10/zui-zao-tui-shou.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2017/04/10/zui-zao-tui-shou.html">
         </link>
         <updated>2017-04-10T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>1988年，政协南郑县委员会文史资料研究会编辑印刷《南郑县文史资料》第五期《安汉与黎坪垦殖》具有重要的文史价值，既是国内安汉研究的开山之作，也是整个安汉研究的奠基性工程。文史资料《安汉与黎坪垦殖》问世，原陕西省委书记陈元方关心支持安汉研究的结果。《安汉与黎坪垦殖》在当时问世是有风险的。今人听到这话可能不好理解，还感到诧异，但经历过“十年文革”的人就不会感到惊讶！</p>
@@ -181,8 +181,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[6月13日在南郑举办安汉研究座谈会]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2016/06/14/zuo-tan-hui.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2016/06/14/zuo-tan-hui.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2016/06/14/zuo-tan-hui.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2016/06/14/zuo-tan-hui.html">
         </link>
         <updated>2016-06-14T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>6月l3日，在大河坎福临酒店举行与安汉亲属见面会和“纪念西部开发先驱安汉诞辰120周年座谈会”。安汉孙女安曼玲等亲属一行回到南郑祭奠安汉先生，参加座谈会。汉中市文联主席武妙华主持座谈会，南郑县政协主席张长林、县委常委、宣传部部长贾连友、南郑县政府副县长张军、县文联主席路汉旭等领导莅临会议。著名作家王蓬、教授刘清河、杨建民、田孟礼，资深编辑何高风，作家冯贵华、吴元贵等知名文化人，李琦、陈日明、魏玲等安汉研究者，黎坪风景区总经理郝战琪、福临酒店总经理马成，一心读书会成员、汉中日报社主任记者李明见、电视台记者等30多人参加座谈会，缅怀安汉事迹，探讨安汉的文化价值。</p>
@@ -194,8 +194,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[大地赤子]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2016/03/11/da-di-chi-zi.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2016/03/11/da-di-chi-zi.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2016/03/11/da-di-chi-zi.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2016/03/11/da-di-chi-zi.html">
         </link>
         <updated>2016-03-11T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="立志学农"></a><a href="#立志学农" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>立志学农</h2>
@@ -209,8 +209,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[想起了安汉]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2009/09/01/jie-ran-zhai-2.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2009/09/01/jie-ran-zhai-2.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2009/09/01/jie-ran-zhai-2.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2009/09/01/jie-ran-zhai-2.html">
         </link>
         <updated>2009-09-01T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>四月下旬，和几位同志去广元志办调研，回程走南郑绕了一下，沿途看见几处黎坪国家森林公园的路标，心中砰然一动：这地方都成旅游景区了？近些天又陆续看到黎坪公园的车体广告不时穿行于西安各通衢大道，于是不由想起民国陕西的一桩公案，想起了英年早逝的安汉。</p>
@@ -222,8 +222,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安汉与“西农”]]></title>
-        <id>https://chaoyuezhao.github.io/anhan-library-and-museumblog/2009/07/17/jie-ran-zhai-1.html</id>
-        <link href="https://chaoyuezhao.github.io/anhan-library-and-museumblog/2009/07/17/jie-ran-zhai-1.html">
+        <id>https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2009/07/17/jie-ran-zhai-1.html</id>
+        <link href="https://chaoyuezhao.github.io/chaoyuezhao.github.io/anhan-library-and-museum/blog/2009/07/17/jie-ran-zhai-1.html">
         </link>
         <updated>2009-07-17T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>在陕西民国历史上，安汉先生无疑是一位重量级的人物，这点仅从许多史志为其辟有专传或有较多的文字介绍就可以看得出来，似乎无须赘言。他不仅是名副其实的农垦学家名，而且当过陕西省立职业学校校长，做过金陵大学教授，于教育，特别是农业也颇多建言与建树，当得起教育家之名号。30年代一件《请中央筹设西北大学案》（1936年8月开发西北协会第三届年会提案），颇见其于西北教育之关注，而其与“西农”的诸多渊源，尤足体现其作为教育家的风采。</p>
