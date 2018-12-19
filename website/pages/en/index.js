@@ -15,11 +15,11 @@ const GridBlock = CompLibrary.GridBlock;
 const siteConfig = require(process.cwd() + '/siteConfig.js');
 
 function imgUrl(img) {
-  return siteConfig.baseUrl + '/img/' + img;
+  return siteConfig.baseUrl + 'img/' + img;
 }
 
 function docUrl(doc, language) {
-  return siteConfig.baseUrl + '/docs/' + (language ? language + '/' : '') + doc;
+  return siteConfig.baseUrl + 'docs/' + (language ? language + '/' : '') + doc;
 }
 
 function pageUrl(page, language) {
