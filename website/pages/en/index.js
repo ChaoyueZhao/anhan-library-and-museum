@@ -15,11 +15,11 @@ const GridBlock = CompLibrary.GridBlock;
 const siteConfig = require(process.cwd() + '/siteConfig.js');
 
 function imgUrl(img) {
-  return siteConfig.baseUrl + 'img/' + img;
+  return siteConfig.baseUrl + '/img/' + img;
 }
 
 function docUrl(doc, language) {
-  return siteConfig.baseUrl + 'docs/' + (language ? language + '/' : '') + doc;
+  return siteConfig.baseUrl + '/docs/' + (language ? language + '/' : '') + doc;
 }
 
 function pageUrl(page, language) {
@@ -131,7 +131,7 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，已经发表于《渭南师范学院学报》2018年6月第11期。<a href="http://www.anhan.org.cn/blog/2018/06/15/an-han-sheng-ping-kao-lue.html">立即阅读</a>。',
+        content: '<p style="text-align: left">基于本站资源完成的学术论文《安汉生平事迹考略》，已经发表于《渭南师范学院学报》2018年6月第11期。<a href="http://chaoyuezhao.github.io/anhan-library-and-museum//blog/2018/06/15/an-han-sheng-ping-kao-lue.html">立即阅读</a>。',
         image: imgUrl('paper.svg'),
         imageAlign: 'right',
         title: '喜讯',
